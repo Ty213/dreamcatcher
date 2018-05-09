@@ -13,8 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ /*
+ *= require ionicons
+ */
 * {
-    margin: 0 auto;
+    margin: 0;
 }
  body, html {
     height: 100%;
